@@ -66,3 +66,8 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt **Node.js** 
 Sau khi cài đặt xong các phụ thuộc, bạn có thể khởi động server phát triển bằng lệnh:
 ```bash
 npm run dev
+```
+*Hoặc nếu bạn dùng Yarn:*
+```bash
+    yarn dev
+```
